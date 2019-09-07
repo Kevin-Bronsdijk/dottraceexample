@@ -1,0 +1,14 @@
+C:\Git\dottraceexample\src\dottraceexample\bin\Debug\netcoreapp2.2\dottraceexample.deps.json
+C:\Git\dottraceexample\src\dottraceexample\bin\Debug\netcoreapp2.2\dottraceexample.runtimeconfig.json
+C:\Git\dottraceexample\src\dottraceexample\bin\Debug\netcoreapp2.2\dottraceexample.runtimeconfig.dev.json
+C:\Git\dottraceexample\src\dottraceexample\bin\Debug\netcoreapp2.2\dottraceexample.dll
+C:\Git\dottraceexample\src\dottraceexample\bin\Debug\netcoreapp2.2\dottraceexample.pdb
+C:\Git\dottraceexample\src\dottraceexample\obj\Debug\netcoreapp2.2\dottraceexample.csprojAssemblyReference.cache
+C:\Git\dottraceexample\src\dottraceexample\obj\Debug\netcoreapp2.2\dottraceexample.csproj.CoreCompileInputs.cache
+C:\Git\dottraceexample\src\dottraceexample\obj\Debug\netcoreapp2.2\dottraceexample.RazorAssemblyInfo.cache
+C:\Git\dottraceexample\src\dottraceexample\obj\Debug\netcoreapp2.2\dottraceexample.RazorAssemblyInfo.cs
+C:\Git\dottraceexample\src\dottraceexample\obj\Debug\netcoreapp2.2\dottraceexample.AssemblyInfoInputs.cache
+C:\Git\dottraceexample\src\dottraceexample\obj\Debug\netcoreapp2.2\dottraceexample.AssemblyInfo.cs
+C:\Git\dottraceexample\src\dottraceexample\obj\Debug\netcoreapp2.2\dottraceexample.RazorTargetAssemblyInfo.cache
+C:\Git\dottraceexample\src\dottraceexample\obj\Debug\netcoreapp2.2\dottraceexample.dll
+C:\Git\dottraceexample\src\dottraceexample\obj\Debug\netcoreapp2.2\dottraceexample.pdb
